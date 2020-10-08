@@ -1,0 +1,50 @@
+body {
+  background-color: black
+}
+
+.bro {
+  border: 0px solid white;
+  border-radius: 4px;
+  padding: 5px;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  margin-top: 100px
+}
+
+
+
+/* navigation */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  display: block;
+  margin-left: auto;
+  width: 17,4%
+}
+
+li {
+  float: right;
+}
+
+/* tekst */
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+li a:hover {
+  background-color: #111;
+}
+/* navigation slut*/

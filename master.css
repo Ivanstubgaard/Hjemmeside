@@ -1,0 +1,38 @@
+body {
+  background-image: url('img/baggrund.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+    text-align: right;
+    color: white
+}
+
+/* navigation */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  display: block;
+  margin-left: auto;
+  width: 17,4%
+}
+
+li {
+  float: right;
+}
+
+/* tekst */
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+li a:hover {
+  background-color: #111;
+}
+/* navigation slut*/

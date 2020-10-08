@@ -1,0 +1,43 @@
+.ps_ikon {
+  border: 0px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  position: absolute;
+  right: 750px;
+  top: 350px;
+  }
+
+.ps_ikon:hover {
+  background-color: white;
+  opacity: 50%
+}
+
+.xd_ikon {
+  border: 0px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  position: absolute;
+  right: 500px;
+  top: 350px;
+}
+
+.xd_ikon:hover {
+  background-color: white;
+  opacity: 50%
+
+}
+
+.html_ikon {
+  border: 0px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  position: absolute;
+  right: 250px;
+  top: 350px;
+}
+
+.html_ikon:hover {
+  background-color: white;
+  opacity: 50%
+
+}
